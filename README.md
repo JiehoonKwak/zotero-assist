@@ -7,4 +7,5 @@
 - [dropover](https://dropoverapp.com/)
 
 ### Source code
-[add-to-dropover.js](add-to-dropover.js)
+- [add-to-dropover.js](add-to-dropover.js)
+- inspired by [lentikr](https://github.com/windingwind/zotero-actions-tags/discussions/195#discussioncomment-11455454)
